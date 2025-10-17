@@ -22,6 +22,8 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
+You can find full documentation by /api
+
 ## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
