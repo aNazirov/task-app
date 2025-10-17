@@ -7,6 +7,7 @@ Create .env file based on .env.example file
 $ docker network create task-app
 $ docker compose up --build -d postgres
 $ npm ci
+$ npm run prisma:migrate:dev
 ```
 
 ## Compile and run the project
