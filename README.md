@@ -5,7 +5,7 @@ Create .env file based on .env.example file
 ```bash
 $ docker network create task-app
 $ docker compose up --build -d postgres
-$ npm install
+$ npm ci
 ```
 
 ## Compile and run the project
