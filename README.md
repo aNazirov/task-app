@@ -1,5 +1,6 @@
 ## Project setup
 
+Must to have preinstalled docker
 Create .env file based on .env.example file
 
 ```bash
